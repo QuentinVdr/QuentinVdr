@@ -5,4 +5,4 @@
 
 My porfolio is available here: [quentinverdier.me](https://www.quentinverdier.me)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=QuentinVdr&include_all_commits=true&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=QuentinVdr&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
