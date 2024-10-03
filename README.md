@@ -1,7 +1,7 @@
 # Hi, i'm Quentin👋
 
 - 🌱 I'm a young developer with a passion for web development.
-- 🔭 I'm currently studying computer engineering at EPSI, and working as a developer at Infotel.
+- 🔭 I'm currently studying computer engineering at EPSI, and working as a developer at Conserto for the client Biogasview.
 
 My porfolio is available here: [quentin-verdier.com](https://www.quentin-verdier.com)
 
